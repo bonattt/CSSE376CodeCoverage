@@ -1,0 +1,20 @@
+!SESSION 2015-04-17 13:26:37.934 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130530-1430
+java.version=1.7.0_71
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -clean -startup plugins/org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -data C:\Users\bonattt\Documents\School\3 spring Sophomore\CSSE 376 - SQA\Lab05\CSSE376CodeCoverage -os win32 -ws win32 -arch x86_64 -clean -startup plugins/org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2015-04-17 13:26:49.469
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2015-04-17 13:43:17.886 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130530-1430
+java.version=1.7.0_71
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -clean -startup plugins/org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -clean -startup plugins/org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2015-04-17 13:44:21.058
+!MESSAGE No search provider was registed. Tasks search is not available.
